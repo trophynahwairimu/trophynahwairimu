@@ -3,6 +3,7 @@
 - 🌱 I’m currently in my attachment in Sasa Pay
 - 💞️ I’m looking to collaborate on more it experts
 - 📫 How to reach me through my email trophynahwairimu.77@gmail.com
+- 🙌 I have changed something
 
 <!---
 trophynahwairimu/trophynahwairimu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
